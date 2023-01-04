@@ -43,7 +43,7 @@ Hello, I'm Kévin, <br/>
 ---
 <h3 align="center">
   :fire: My Stats :
-  </h3>
+  </h3><br/>
   
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=KevinJeanMarie&theme=github-dark" width="450px"/></a>
