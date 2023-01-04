@@ -47,4 +47,4 @@ Hello, I'm Kévin, <br/>
   :fire: My Stats :
   </h3><br/>
   
-&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KevinJeanMarie&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinJeanMarie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KevinJeanMarie&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinJeanMarie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
