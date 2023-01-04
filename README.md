@@ -41,8 +41,6 @@ Hello, I'm Kévin, <br/>
 </div>
 
 ---
-
-
 <h3 align="center">
   :fire: My Stats :
   </h3><br/>
