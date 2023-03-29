@@ -45,6 +45,6 @@ Hello, I'm Kévin, <br/>
   :fire: My Stats :
   </h3><br/>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=KevinJeanMarie&theme=github-dark" width="450px"/></a>
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=KevinJeanMarie&theme=javascript-dark" width="450px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=KevinJeanMarie&layout=compact&theme=transparent&text_color=ffffff&border_color=39d253&title_color=FFFFFF&bg_color=0d1117" height="177px"/></a>
 </p>
