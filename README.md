@@ -39,12 +39,7 @@ Hello, I'm Kévin, <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
 </div>
-
----
-<h3 align="center">
-  :fire: My Stats :
-  </h3><br/>
+<br><br>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=KevinJeanMarie&theme=javascript-default" width="450px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=KevinJeanMarie&layout=compact&theme=default" height="177px"/></a>
 </p>
