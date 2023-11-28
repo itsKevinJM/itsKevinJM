@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!--<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>-->
-  <img src="https://github.com/KevinJeanMarie/KevinJeanMarie/assets/90609887/fca7c675-a7d9-403d-8d65-066257081226" alt="Kevin JM" width=500/>
+  <img src="https://github.com/KevinJeanMarie/KevinJeanMarie/assets/90609887/fca7c675-a7d9-403d-8d65-066257081226" alt="Kevin JM" width=400/>
   <!--<img src ="https://github.com/KevinJeanMarie/KevinJeanMarie/assets/90609887/3c8c91d4-9a8c-45d8-8bb5-a163549fbc62" alt ="Kevin JM" width=400/>-->
 </div>
 
