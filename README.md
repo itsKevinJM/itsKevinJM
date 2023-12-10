@@ -4,12 +4,12 @@
   <!--<img src ="https://github.com/KevinJeanMarie/KevinJeanMarie/assets/90609887/3c8c91d4-9a8c-45d8-8bb5-a163549fbc62" alt ="Kevin JM" width=400/>-->
 </div>
 
-<div id="badges" align="center">
+<!--<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kevin-jm/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br/>
     <img src="https://komarev.com/ghpvc/?username=KevinJeanMarie&style=flat-square&color=blue" width="110px" alt="Views counter"/>
   </a>
-</div>
+</div>-->
 
 <h1 align="center">
   WELCOME ON MY GITHUB !
