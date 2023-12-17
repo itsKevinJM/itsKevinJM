@@ -1,9 +1,9 @@
-<div id="header" align="left">
+<div id="header" align="center">
   <!--<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>-->
   <img src="https://github.com/KevinJeanMarie/KevinJeanMarie/assets/90609887/fca7c675-a7d9-403d-8d65-066257081226" alt="Kevin JM" width=320/>
-</div>
+  <h3>Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm a junior DevOps passionate about cybersecurity.</h3>
   <!--<h4>👨‍💻 About Me :</h4>-->
-<h3>Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm a junior DevOps passionate about cybersecurity.</h3>
+
   <!--<img src ="https://github.com/KevinJeanMarie/KevinJeanMarie/assets/90609887/3c8c91d4-9a8c-45d8-8bb5-a163549fbc62" alt ="Kevin JM" width=400/>-->
 
 <!--<div id="badges" align="center">
@@ -17,10 +17,10 @@
   WELCOME ON MY GITHUB !
 
 </h3>-->
-<h4 align="left">
+<h4>
 Languages and Tools :
   </h4>
-<div align="left">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
@@ -37,7 +37,8 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="35" height="35"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="35" height="35"/>&nbsp;
 </div>
-<br><br>
-<p align="left">
+<br>
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=KevinJeanMarie&layout=compact&theme=default" height="135px"/></a>
 </p>
+</div>
