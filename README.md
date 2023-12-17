@@ -2,21 +2,6 @@
   <!--<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>-->
   <img src="https://github.com/KevinJeanMarie/KevinJeanMarie/assets/90609887/fca7c675-a7d9-403d-8d65-066257081226" alt="Kevin JM" width=320/>
   <h3>Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm a junior DevOps.</h3>
-  <!--<h4>👨‍💻 About Me :</h4>-->
-
-  <!--<img src ="https://github.com/KevinJeanMarie/KevinJeanMarie/assets/90609887/3c8c91d4-9a8c-45d8-8bb5-a163549fbc62" alt ="Kevin JM" width=400/>-->
-
-<!--<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kevin-jm/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><br/>
-    <img src="https://komarev.com/ghpvc/?username=KevinJeanMarie&style=flat-square&color=blue" width="110px" alt="Views counter"/>
-  </a>
-</div>-->
-
-<!--<h3 align="left">
-  WELCOME ON MY GITHUB !
-
-</h3>-->
 <h4>
 Languages and Tools :
   </h4>
