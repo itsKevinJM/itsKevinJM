@@ -1,7 +1,7 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <!--<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100"/>-->
   <!--<img src="https://github.com/KevinJeanMarie/KevinJeanMarie/assets/90609887/fca7c675-a7d9-403d-8d65-066257081226" alt="Kevin JM" width=320/>-->
-   <img src="https://github.com/itsKevinJM/itsKevinJM/assets/90609887/061a19bc-28b5-4dc1-a102-31fa72b55a37" alt="Kevin JM" width=320/>
+   <img src="https://github.com/itsKevinJM/itsKevinJM/assets/90609887/061a19bc-28b5-4dc1-a102-31fa72b55a37" alt="Kevin JM" width=280/>
   <h3>Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>, I'm Kévin, a junior DevOps.</h3>
 <h4>
 Languages and Tools :
