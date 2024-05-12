@@ -3,7 +3,7 @@
   <!--<img src="https://github.com/KevinJeanMarie/KevinJeanMarie/assets/90609887/fca7c675-a7d9-403d-8d65-066257081226" alt="Kevin JM" width=320/>-->
    <img src="https://github.com/itsKevinJM/itsKevinJM/assets/90609887/6d108f2a-0fa6-492b-98e9-7c2c875471b3" alt="Kevin JM" width=380/>
   <br><br>
-  <h3>Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>, I'm Kévin, a junior DevOps.</h3>
+  <h3>Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>, I'm Kévin</h3>
 <h4>
 Languages and Tools :
 
